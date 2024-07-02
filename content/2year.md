@@ -9,7 +9,7 @@
 
 Лабораторная работа №2 <br>
 [Ссылка на развернутый сайт](https://elyakkos.github.io/portfoliogit/)
-
+  
 Лабораторная работа №3 <br>
 [Ссылка](https://docs.google.com/document/d/1ay7Vxvys-YVbZMdFe3kaweCK5X7e53XGKdgTbUJwUNE/edit)
 
