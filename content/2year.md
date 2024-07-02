@@ -1,25 +1,41 @@
-### [Программирование]()
-## [База данных]()
-## [Серверные веб-технологии]()
+## Программирование
+## База данных
+## Серверные веб-технологии
 
-## [Компьютерный практикум]()
-Лабораторная работа №1
-
+## Компьютерный практикум
+Лабораторная работа №1 <br>
 [Ссылка на репозиторий](https://github.com/elyakkos/portfoliokp)
 [Ссылка на сайт](https://elyakkos.github.io/portfoliokp/)
 
-Лабораторная работа №2
-
+Лабораторная работа №2 <br>
 [Ссылка на развернутый сайт](https://elyakkos.github.io/portfoliogit/)
-Лабораторная работа №3
-[https://docs.google.com/document/d/1ay7Vxvys-YVbZMdFe3kaweCK5X7e53XGKdgTbUJwUNE/edit](Ссылка)
 
-Лабораторная работа №4
-[https://docs.google.com/document/d/1iSqYkNMfVK4cF7riIEIeab2TIhq0INv429ZLTSmQuJQ/edit](Ссылка)
+Лабораторная работа №3 <br>
+[Ссылка](https://docs.google.com/document/d/1ay7Vxvys-YVbZMdFe3kaweCK5X7e53XGKdgTbUJwUNE/edit)
 
-Лабораторная работа №5
-[https://replit.com/@elkostylevaa/KP-LR5-1](Ссылка на задание 1)
-[https://replit.com/@elkostylevaa/KP-LR5-2#main.py](Ссылка на задание 2)
+Лабораторная работа №4 <br>
+[Ссылка](https://docs.google.com/document/d/1iSqYkNMfVK4cF7riIEIeab2TIhq0INv429ZLTSmQuJQ/edit)
+
+Лабораторная работа №5 <br>
+[Ссылка на задание 1](https://replit.com/@elkostylevaa/KP-LR5-1)<br>
+[Ссылка на задание 2](https://replit.com/@elkostylevaa/KP-LR5-2#main.py)
+
+Лабораторная работа №6
+[Ссылка](https://replit.com/@elkostylevaa/LR6-CP#main.py)
+
+Лабораторная работа №7
+[Ссылка](https://replit.com/@elkostylevaa/lr7-kp)
+
+Лабораторная работа №8
+[Ссылка на бота с погодой](https://t.me/comppr_bot)
+
+Практическая работа №9. Часть 1
+[Ссылка на отчет](https://disk.yandex.ru/i/FH9KRKORhkBIrw)
+
+Часть 2
+[Ссылка на отчет](https://disk.yandex.ru/i/SU1zF_ce3Cm6bA)
+
+
 ## Веб-проектирование
 
 Лаборатороная работа - Создайте заготовку для своего портфолио, опираясь на предоставленные материалы курса
