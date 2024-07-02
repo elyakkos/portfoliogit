@@ -4,12 +4,13 @@
 
 ## [Компьютерный практикум]()
 Лабораторная работа №1
-[https://github.com/elyakkos/portfoliokp](Ссылка на репозиторий)
-[https://elyakkos.github.io/portfoliokp/](Ссылка на сайт)
+
+[Ссылка на репозиторий](https://github.com/elyakkos/portfoliokp)
+[Ссылка на сайт](https://elyakkos.github.io/portfoliokp/)
 
 Лабораторная работа №2
-[https://elyakkos.github.io/portfoliogit/](Ссылка на развернутый сайт)
 
+[Ссылка на развернутый сайт](https://elyakkos.github.io/portfoliogit/)
 Лабораторная работа №3
 [https://docs.google.com/document/d/1ay7Vxvys-YVbZMdFe3kaweCK5X7e53XGKdgTbUJwUNE/edit](Ссылка)
 
