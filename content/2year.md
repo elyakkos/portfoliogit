@@ -5,8 +5,8 @@
 
 ## Компьютерный практикум
 Лабораторная работа №1  
-[Ссылка на репозиторий](https://github.com/elyakkos/portfoliokp)  
-[Ссылка на сайт](https://elyakkos.github.io/portfoliokp/)
+[Ссылка на репозиторий](https://github.com/elyakkos/portfoliogit)  
+[Ссылка на сайт](https://elyakkos.github.io/portfoliogit/)
 
 Лабораторная работа №2  
 [Ссылка на развернутый сайт](https://elyakkos.github.io/portfoliogit/)
