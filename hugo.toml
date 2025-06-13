@@ -63,8 +63,8 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "3 курс"
     name       = "3 курс"
-    url        = "/posts"
+    url        = "/3year"
   [[menu.main]]
     identifier = "4 курс"
     name       = "4 курс"
-    url        = "/posts"
+    url        = "/4year"
